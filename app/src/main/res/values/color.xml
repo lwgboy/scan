@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#ffffff</color>
+    <color name="bgprogress">#99333333</color>
+    <color name="bgBopBtn">#44999999</color>
+    <color name="bgPop">#666666</color>
+    <color name="linePop">#99999999</color>
+    <color name="blue">#0000ff</color>
+    <color name="lightgray">#F7F7F7</color>
+    <color name="lightblack">#696969</color>
+    <color name="blend_item_theme_color">#ff005092</color>
+    <color name="blend_item_divider_color">#ffededed</color>
+    <color name="blend_item_pressed_color_transparent">#19000000</color>
+    <color name="blend_item_theme_color_black">#ff393d43</color>
+    <color name="list_no_bg">#8800ffcc</color>
+    <color name="clr_normal">#ffffff</color>
+    <color name="clr_pressed">#8800ffcc</color>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="divider">#ffd2d2d2</color>
+
+</resources>

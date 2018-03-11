@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="xxtt.scan.MainActivity" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:title="@string/parameterSetting"/>
+    <item
+        android:id="@+id/order_dist"
+        android:title="@string/dist_title"/>
+    <item
+        android:id="@+id/order_allot"
+        android:title="@string/allot_title"/>
+    <item
+        android:id="@+id/order_count"
+        android:title="@string/count_title"/>
+    <item
+        android:id="@+id/mate_get"
+        android:title="@string/mate_title"/>
+    <!-- <item
+        android:id="@+id/reboot"
+        android:title="@string/reboot_title"/> -->
+    <item
+        android:id="@+id/quit_app"
+        android:title="@string/quit_title"/>
+
+</menu>

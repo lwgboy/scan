@@ -1,0 +1,322 @@
+[
+    {
+        "merged": "/Users/wangzhiqiang/Scan/app/build/intermediates/res/merged/debug/drawable-hdpi_min.9.png.flat",
+        "source": "/Users/wangzhiqiang/Scan/app/src/main/res/drawable-hdpi/min.9.png"
+    },
+    {
+        "merged": "/Users/wangzhiqiang/Scan/app/build/intermediates/res/merged/debug/layout_iso1800_6c.xml.flat",
+        "source": "/Users/wangzhiqiang/Scan/app/src/main/res/layout/iso1800_6c.xml"
+    },
+    {
+        "merged": "/Volumes/E/Scan/app/build/intermediates/res/merged/debug/drawable_button.xml.flat",
+        "source": "/Volumes/E/Scan/app/src/main/res/drawable/button.xml"
+    },
+    {
+        "merged": "/Volumes/E/Scan/app/build/intermediates/res/merged/debug/drawable-xhdpi_drawer_shadow.9.png.flat",
+        "source": "/Volumes/E/Scan/app/src/main/res/drawable-xhdpi/drawer_shadow.9.png"
+    },
+    {
+        "merged": "/Users/wangzhiqiang/Scan/app/build/intermediates/res/merged/debug/layout_listview_item2.xml.flat",
+        "source": "/Users/wangzhiqiang/Scan/app/src/main/res/layout/listview_item2.xml"
+    },
+    {
+        "merged": "/Volumes/E/Scan/app/build/intermediates/res/merged/debug/layout_blend_dialog_preview_layout.xml.flat",
+        "source": "/Volumes/E/Scan/app/src/main/res/layout/blend_dialog_preview_layout.xml"
+    },
+    {
+        "merged": "/Users/wangzhiqiang/Scan/app/build/intermediates/res/merged/debug/layout_activity_login.xml.flat",
+        "source": "/Users/wangzhiqiang/Scan/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Volumes/E/Scan/app/build/intermediates/res/merged/debug/drawable_bg_amount_layout.xml.flat",
+        "source": "/Volumes/E/Scan/app/src/main/res/drawable/bg_amount_layout.xml"
+    },
+    {
+        "merged": "/Users/wangzhiqiang/Scan/app/build/intermediates/res/merged/debug/drawable-hdpi_uhf_launcher.png.flat",
+        "source": "/Users/wangzhiqiang/Scan/app/src/main/res/drawable-hdpi/uhf_launcher.png"
+    },
+    {
+        "merged": "/Users/wangzhiqiang/Scan/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/wangzhiqiang/Scan/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/wangzhiqiang/Scan/app/build/intermediates/res/merged/debug/drawable_blend_view_bg_default.xml.flat",
+        "source": "/Users/wangzhiqiang/Scan/app/src/main/res/drawable/blend_view_bg_default.xml"
+    },
+    {
+        "merged": "/Users/wangzhiqiang/Scan/app/build/intermediates/res/merged/debug/layout_activity_dist.xml.flat",
+        "source": "/Users/wangzhiqiang/Scan/app/src/main/res/layout/activity_dist.xml"
+    },
+    {
+        "merged": "/Users/wangzhiqiang/Scan/app/build/intermediates/res/merged/debug/menu_login.xml.flat",
+        "source": "/Users/wangzhiqiang/Scan/app/src/main/res/menu/login.xml"
+    },
+    {
+        "merged": "/Users/wangzhiqiang/Scan/app/build/intermediates/res/merged/debug/layout_setting_power.xml.flat",
+        "source": "/Users/wangzhiqiang/Scan/app/src/main/res/layout/setting_power.xml"
+    },
+    {
+        "merged": "/Volumes/E/Scan/app/build/intermediates/res/merged/debug/drawable-xxhdpi_drawer_shadow.9.png.flat",
+        "source": "/Volumes/E/Scan/app/src/main/res/drawable-xxhdpi/drawer_shadow.9.png"
+    },
+    {
+        "merged": "/Users/wangzhiqiang/Scan/app/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/Users/wangzhiqiang/Scan/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Volumes/E/Scan/app/build/intermediates/res/merged/debug/menu_global.xml.flat",
+        "source": "/Volumes/E/Scan/app/src/main/res/menu/global.xml"
+    },
+    {
+        "merged": "/Users/wangzhiqiang/Scan/app/build/intermediates/res/merged/debug/drawable_button.xml.flat",
+        "source": "/Users/wangzhiqiang/Scan/app/src/main/res/drawable/button.xml"
+    },
+    {
+        "merged": "/Volumes/E/Scan/app/build/intermediates/res/merged/debug/layout_iso1800_6c.xml.flat",
+        "source": "/Volumes/E/Scan/app/src/main/res/layout/iso1800_6c.xml"
+    },
+    {
+        "merged": "/Users/wangzhiqiang/Scan/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/wangzhiqiang/Scan/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Volumes/E/Scan/app/build/intermediates/res/merged/debug/drawable-mdpi_blend_spinner_76_outer_holo.png.flat",
+        "source": "/Volumes/E/Scan/app/src/main/res/drawable-mdpi/blend_spinner_76_outer_holo.png"
+    },
+    {
+        "merged": "/Volumes/E/Scan/app/build/intermediates/res/merged/debug/raw_msg.mp3.flat",
+        "source": "/Volumes/E/Scan/app/src/main/res/raw/msg.mp3"
+    },
+    {
+        "merged": "/Users/wangzhiqiang/Scan/app/build/intermediates/res/merged/debug/drawable_divider.xml.flat",
+        "source": "/Users/wangzhiqiang/Scan/app/src/main/res/drawable/divider.xml"
+    },
+    {
+        "merged": "/Volumes/E/Scan/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_drawer.png.flat",
+        "source": "/Volumes/E/Scan/app/src/main/res/drawable-xxhdpi/ic_drawer.png"
+    },
+    {
+        "merged": "/Users/wangzhiqiang/Scan/app/build/intermediates/res/merged/debug/layout_main.xml.flat",
+        "source": "/Users/wangzhiqiang/Scan/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/wangzhiqiang/Scan/app/build/intermediates/res/merged/debug/layout_listview_item.xml.flat",
+        "source": "/Users/wangzhiqiang/Scan/app/src/main/res/layout/listview_item.xml"
+    },
+    {
+        "merged": "/Users/wangzhiqiang/Scan/app/build/intermediates/res/merged/debug/drawable-mdpi_blend_spinner_76_outer_holo.png.flat",
+        "source": "/Users/wangzhiqiang/Scan/app/src/main/res/drawable-mdpi/blend_spinner_76_outer_holo.png"
+    },
+    {
+        "merged": "/Users/wangzhiqiang/Scan/app/build/intermediates/res/merged/debug/drawable-hdpi_compose_icon_nextlevel.png.flat",
+        "source": "/Users/wangzhiqiang/Scan/app/src/main/res/drawable-hdpi/compose_icon_nextlevel.png"
+    },
+    {
+        "merged": "/Users/wangzhiqiang/Scan/app/build/intermediates/res/merged/debug/drawable-hdpi_uhf_launcher_1.png.flat",
+        "source": "/Users/wangzhiqiang/Scan/app/src/main/res/drawable-hdpi/uhf_launcher_1.png"
+    },
+    {
+        "merged": "/Users/wangzhiqiang/Scan/app/build/intermediates/res/merged/debug/drawable_corners_background.xml.flat",
+        "source": "/Users/wangzhiqiang/Scan/app/src/main/res/drawable/corners_background.xml"
+    },
+    {
+        "merged": "/Users/wangzhiqiang/Scan/app/build/intermediates/res/merged/debug/layout_view_amount.xml.flat",
+        "source": "/Users/wangzhiqiang/Scan/app/src/main/res/layout/view_amount.xml"
+    },
+    {
+        "merged": "/Volumes/E/Scan/app/build/intermediates/res/merged/debug/drawable-hdpi_uhf_launcher.png.flat",
+        "source": "/Volumes/E/Scan/app/src/main/res/drawable-hdpi/uhf_launcher.png"
+    },
+    {
+        "merged": "/Volumes/E/Scan/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Volumes/E/Scan/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Volumes/E/Scan/app/build/intermediates/res/merged/debug/drawable_blend_dialog_frame.xml.flat",
+        "source": "/Volumes/E/Scan/app/src/main/res/drawable/blend_dialog_frame.xml"
+    },
+    {
+        "merged": "/Volumes/E/Scan/app/build/intermediates/res/merged/debug/drawable-mdpi_blend_spinner_76_inner_holo.png.flat",
+        "source": "/Volumes/E/Scan/app/src/main/res/drawable-mdpi/blend_spinner_76_inner_holo.png"
+    },
+    {
+        "merged": "/Volumes/E/Scan/app/build/intermediates/res/merged/debug/layout_view_amount.xml.flat",
+        "source": "/Volumes/E/Scan/app/src/main/res/layout/view_amount.xml"
+    },
+    {
+        "merged": "/Volumes/E/Scan/app/build/intermediates/res/merged/debug/drawable-hdpi_plus.9.png.flat",
+        "source": "/Volumes/E/Scan/app/src/main/res/drawable-hdpi/plus.9.png"
+    },
+    {
+        "merged": "/Users/wangzhiqiang/Scan/app/build/intermediates/res/merged/debug/drawable_btn_amount.xml.flat",
+        "source": "/Users/wangzhiqiang/Scan/app/src/main/res/drawable/btn_amount.xml"
+    },
+    {
+        "merged": "/Volumes/E/Scan/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Volumes/E/Scan/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Volumes/E/Scan/app/build/intermediates/res/merged/debug/drawable-hdpi_uhf_launcher_1.png.flat",
+        "source": "/Volumes/E/Scan/app/src/main/res/drawable-hdpi/uhf_launcher_1.png"
+    },
+    {
+        "merged": "/Volumes/E/Scan/app/build/intermediates/res/merged/debug/drawable_corners_background.xml.flat",
+        "source": "/Volumes/E/Scan/app/src/main/res/drawable/corners_background.xml"
+    },
+    {
+        "merged": "/Users/wangzhiqiang/Scan/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/wangzhiqiang/Scan/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/wangzhiqiang/Scan/app/build/intermediates/res/merged/debug/drawable_blend_dialog_frame.xml.flat",
+        "source": "/Users/wangzhiqiang/Scan/app/src/main/res/drawable/blend_dialog_frame.xml"
+    },
+    {
+        "merged": "/Users/wangzhiqiang/Scan/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_drawer.png.flat",
+        "source": "/Users/wangzhiqiang/Scan/app/src/main/res/drawable-xhdpi/ic_drawer.png"
+    },
+    {
+        "merged": "/Users/wangzhiqiang/Scan/app/build/intermediates/res/merged/debug/drawable-xhdpi_drawer_shadow.9.png.flat",
+        "source": "/Users/wangzhiqiang/Scan/app/src/main/res/drawable-xhdpi/drawer_shadow.9.png"
+    },
+    {
+        "merged": "/Volumes/E/Scan/app/build/intermediates/res/merged/debug/layout_setting_power.xml.flat",
+        "source": "/Volumes/E/Scan/app/src/main/res/layout/setting_power.xml"
+    },
+    {
+        "merged": "/Volumes/E/Scan/app/build/intermediates/res/merged/debug/layout_activity_dist.xml.flat",
+        "source": "/Volumes/E/Scan/app/src/main/res/layout/activity_dist.xml"
+    },
+    {
+        "merged": "/Volumes/E/Scan/app/build/intermediates/res/merged/debug/layout_listview_item.xml.flat",
+        "source": "/Volumes/E/Scan/app/src/main/res/layout/listview_item.xml"
+    },
+    {
+        "merged": "/Users/wangzhiqiang/Scan/app/build/intermediates/res/merged/debug/drawable-mdpi_blend_spinner_76_inner_holo.png.flat",
+        "source": "/Users/wangzhiqiang/Scan/app/src/main/res/drawable-mdpi/blend_spinner_76_inner_holo.png"
+    },
+    {
+        "merged": "/Users/wangzhiqiang/Scan/app/build/intermediates/res/merged/debug/drawable_bg_amount_layout.xml.flat",
+        "source": "/Users/wangzhiqiang/Scan/app/src/main/res/drawable/bg_amount_layout.xml"
+    },
+    {
+        "merged": "/Volumes/E/Scan/app/build/intermediates/res/merged/debug/menu_login.xml.flat",
+        "source": "/Volumes/E/Scan/app/src/main/res/menu/login.xml"
+    },
+    {
+        "merged": "/Users/wangzhiqiang/Scan/app/build/intermediates/res/merged/debug/layout_blend_dialog_list_item.xml.flat",
+        "source": "/Users/wangzhiqiang/Scan/app/src/main/res/layout/blend_dialog_list_item.xml"
+    },
+    {
+        "merged": "/Volumes/E/Scan/app/build/intermediates/res/merged/debug/layout_main.xml.flat",
+        "source": "/Volumes/E/Scan/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Volumes/E/Scan/app/build/intermediates/res/merged/debug/drawable_blend_view_bg_default.xml.flat",
+        "source": "/Volumes/E/Scan/app/src/main/res/drawable/blend_view_bg_default.xml"
+    },
+    {
+        "merged": "/Volumes/E/Scan/app/build/intermediates/res/merged/debug/drawable_btn_amount.xml.flat",
+        "source": "/Volumes/E/Scan/app/src/main/res/drawable/btn_amount.xml"
+    },
+    {
+        "merged": "/Volumes/E/Scan/app/build/intermediates/res/merged/debug/layout_setting_activity.xml.flat",
+        "source": "/Volumes/E/Scan/app/src/main/res/layout/setting_activity.xml"
+    },
+    {
+        "merged": "/Users/wangzhiqiang/Scan/app/build/intermediates/res/merged/debug/raw_msg.mp3.flat",
+        "source": "/Users/wangzhiqiang/Scan/app/src/main/res/raw/msg.mp3"
+    },
+    {
+        "merged": "/Volumes/E/Scan/app/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/Volumes/E/Scan/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/wangzhiqiang/Scan/app/build/intermediates/res/merged/debug/menu_dist.xml.flat",
+        "source": "/Users/wangzhiqiang/Scan/app/src/main/res/menu/dist.xml"
+    },
+    {
+        "merged": "/Users/wangzhiqiang/Scan/app/build/intermediates/res/merged/debug/layout_blend_dialog_preview_layout.xml.flat",
+        "source": "/Users/wangzhiqiang/Scan/app/src/main/res/layout/blend_dialog_preview_layout.xml"
+    },
+    {
+        "merged": "/Users/wangzhiqiang/Scan/app/build/intermediates/res/merged/debug/layout_activity_set_number.xml.flat",
+        "source": "/Users/wangzhiqiang/Scan/app/src/main/res/layout/activity_set_number.xml"
+    },
+    {
+        "merged": "/Volumes/E/Scan/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Volumes/E/Scan/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Volumes/E/Scan/app/build/intermediates/res/merged/debug/drawable_blend_holo_progressbar_circle.xml.flat",
+        "source": "/Volumes/E/Scan/app/src/main/res/drawable/blend_holo_progressbar_circle.xml"
+    },
+    {
+        "merged": "/Users/wangzhiqiang/Scan/app/build/intermediates/res/merged/debug/drawable-hdpi_plus.9.png.flat",
+        "source": "/Users/wangzhiqiang/Scan/app/src/main/res/drawable-hdpi/plus.9.png"
+    },
+    {
+        "merged": "/Volumes/E/Scan/app/build/intermediates/res/merged/debug/layout_listview_item2.xml.flat",
+        "source": "/Volumes/E/Scan/app/src/main/res/layout/listview_item2.xml"
+    },
+    {
+        "merged": "/Users/wangzhiqiang/Scan/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_drawer.png.flat",
+        "source": "/Users/wangzhiqiang/Scan/app/src/main/res/drawable-xxhdpi/ic_drawer.png"
+    },
+    {
+        "merged": "/Volumes/E/Scan/app/build/intermediates/res/merged/debug/menu_dist.xml.flat",
+        "source": "/Volumes/E/Scan/app/src/main/res/menu/dist.xml"
+    },
+    {
+        "merged": "/Volumes/E/Scan/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Volumes/E/Scan/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/wangzhiqiang/Scan/app/build/intermediates/res/merged/debug/layout_setting_activity.xml.flat",
+        "source": "/Users/wangzhiqiang/Scan/app/src/main/res/layout/setting_activity.xml"
+    },
+    {
+        "merged": "/Volumes/E/Scan/app/build/intermediates/res/merged/debug/layout_blend_dialog_list_item.xml.flat",
+        "source": "/Volumes/E/Scan/app/src/main/res/layout/blend_dialog_list_item.xml"
+    },
+    {
+        "merged": "/Volumes/E/Scan/app/build/intermediates/res/merged/debug/drawable_divider.xml.flat",
+        "source": "/Volumes/E/Scan/app/src/main/res/drawable/divider.xml"
+    },
+    {
+        "merged": "/Volumes/E/Scan/app/build/intermediates/res/merged/debug/drawable-hdpi_min.9.png.flat",
+        "source": "/Volumes/E/Scan/app/src/main/res/drawable-hdpi/min.9.png"
+    },
+    {
+        "merged": "/Volumes/E/Scan/app/build/intermediates/res/merged/debug/layout_activity_login.xml.flat",
+        "source": "/Volumes/E/Scan/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/wangzhiqiang/Scan/app/build/intermediates/res/merged/debug/drawable_blend_holo_progressbar_circle.xml.flat",
+        "source": "/Users/wangzhiqiang/Scan/app/src/main/res/drawable/blend_holo_progressbar_circle.xml"
+    },
+    {
+        "merged": "/Users/wangzhiqiang/Scan/app/build/intermediates/res/merged/debug/menu_global.xml.flat",
+        "source": "/Users/wangzhiqiang/Scan/app/src/main/res/menu/global.xml"
+    },
+    {
+        "merged": "/Volumes/E/Scan/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_drawer.png.flat",
+        "source": "/Volumes/E/Scan/app/src/main/res/drawable-xhdpi/ic_drawer.png"
+    },
+    {
+        "merged": "/Users/wangzhiqiang/Scan/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/wangzhiqiang/Scan/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/wangzhiqiang/Scan/app/build/intermediates/res/merged/debug/drawable-xxhdpi_drawer_shadow.9.png.flat",
+        "source": "/Users/wangzhiqiang/Scan/app/src/main/res/drawable-xxhdpi/drawer_shadow.9.png"
+    },
+    {
+        "merged": "/Volumes/E/Scan/app/build/intermediates/res/merged/debug/layout_activity_set_number.xml.flat",
+        "source": "/Volumes/E/Scan/app/src/main/res/layout/activity_set_number.xml"
+    },
+    {
+        "merged": "/Volumes/E/Scan/app/build/intermediates/res/merged/debug/drawable-hdpi_compose_icon_nextlevel.png.flat",
+        "source": "/Volumes/E/Scan/app/src/main/res/drawable-hdpi/compose_icon_nextlevel.png"
+    }
+]

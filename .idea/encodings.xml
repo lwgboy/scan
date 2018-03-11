@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/xxtt/scan/DialogListViewAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/xxtt/scan/DistActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/xxtt/scan/LoginActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/xxtt/scan/MainActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/xxtt/scan/lib/Utils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/xxtt/scan/manager/ConfigManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/xxtt/scan/manager/Constant.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/xxtt/scan/manager/KeyValueManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/xxtt/scan/manager/StoreManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/xxtt/scan/manager/UserManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/xxtt/scan/model/ConfigModel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/xxtt/scan/model/KeyValueModel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/xxtt/scan/model/StoreModel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/xxtt/scan/model/UserModel.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
